@@ -7,5 +7,5 @@ Js-ctypes, get file path
 var dataUrl = self.data.url("udp_client.dll");
 dataUrl = Services.io.newURI(dataUrl,null,null).QueryInterface(Ci.nsIF‌​ileURL).file.path;
 ```
-
+https://github.com/shankar2105
 
